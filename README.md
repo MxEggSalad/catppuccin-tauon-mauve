@@ -2,7 +2,7 @@ Props to [Achardir](https://github.com/Achardir) for doing the original Teal ren
 
 ## Catppuccin theme for Tauon Music Box
 
-![preview](Catppuccin_Tauon.png)
+![preview](Catppuccin_Mauve_Tauon.png)
 
 ## Installation
 Open `Menu > Settings > Function > Open data folder`.
