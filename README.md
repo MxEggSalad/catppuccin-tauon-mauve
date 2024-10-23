@@ -1,3 +1,5 @@
+Props to [Achardir](https://github.com/Achardir) for doing the original Teal rendition, I had doing backgrounds but highlights and schemes are fun
+
 ## Catppuccin theme for Tauon Music Box
 
 ![preview](Catppuccin_Tauon.png)
