@@ -5,6 +5,8 @@ Props to [Achardir](https://github.com/Achardir) for doing the original Teal ren
 ![preview](Catppuccin_Mauve_Tauon.png)
 
 ## Installation
+Download [Catppuccin-Mauve.ttheme](Catppuccin-Mauve.ttheme)
+
 Open `Menu > Settings > Function > Open data folder`.
 
-Place `Catppuccin.ttheme` inside `theme` folder.
+Place `Catppuccin-Mauve.ttheme` inside `theme` folder.
